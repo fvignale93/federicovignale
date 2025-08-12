@@ -1,5 +1,5 @@
 ---
-title: "Vignale Lab - Home"
+title: "Vignale website - Home"
 layout: homelay
 excerpt: ""
 sitemap: false
